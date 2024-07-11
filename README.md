@@ -11,13 +11,6 @@ This Pomodoro Timer App is a simple application built using Python and the Tkint
 - Keeps track of completed work sessions with checkmarks
 - Reset option to start a new timer session
 
-## Installation
-1. Clone the repository to your local machine.
-2. Ensure you have Python installed (version x.x.x).
-3. Install the required dependencies using the following command:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 1. Run the `main.py` file to start the Pomodoro Timer App.
